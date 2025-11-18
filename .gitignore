@@ -1,0 +1,3 @@
+**/ DS_Store 
+#De esta forma estamos diciendo que no queremos tener en cuenta ese fichero llamado DS_Store. 
+#El añadir los asteriscos ** quiere decir que nos da igual donde este ese fichero.
